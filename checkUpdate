@@ -3,7 +3,7 @@
     <update> 
         <version>3.0.0.0</version> 
         <url>https://github.com/martin0409/update-/blob/martin0409-patch-1/WindowsFormsApplication3.exe?raw=true</url> 
-        <filePath>./TestApp.exe</filePath>
+        <filePath>./WindowsFormsApplication3.exe</filePath>
         <md5>a79b733974032cc323d354eca0b01d93</md5>
         <description>Update: 08/01/2019:
         1. Fixed bug blablabla </description> 
