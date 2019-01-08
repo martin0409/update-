@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update> 
         <version>3.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <url>https://github.com/martin0409/update-/blob/master/TestApp.exe?raw=true</url> 
         <filePath>./TestApp.exe</filePath>
         <md5>a79b733974032cc323d354eca0b01d93</md5>
         <description>Update: 9/01/2018:
