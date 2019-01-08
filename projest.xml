@@ -3,8 +3,8 @@
     <update> 
         <version>3.0.0.0</version> 
         <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
-        <filePath>./TestApp.exe</filePath>
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <filePath>./DXUpdate.exe</filePath>
+        <md5>83e5a6e9d7379d935c53d7bd08a95177</md5>
         <description>Update: 10/06/2018:
         1. Updated a label.</description> 
         <launchArgs></launchArgs> 
