@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>3.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <filePath>./TestApp.exe</filePath>
+        <md5>445fdadcde6cb4dc356a393d7e3a3ce3</md5>
+        <description>Update: 08/01/2019:
+        1. Fixed bug blablabla </description> 
+        <launchArgs></launchArgs> 
+    </update>
+</sharpUpdate>
