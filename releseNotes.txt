@@ -7,6 +7,6 @@ New Features/Functionality Added
 -Add Socks5
 -Add HTTP
 Features/Functionality Removed 
--N/A 
+-Removed Popup Windows 
 
                                           
