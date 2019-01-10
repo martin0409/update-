@@ -1,11 +1,16 @@
-October 2019
 Version 1.0.0.1
 
 Released 01.10.2019
 
-    Allow you to create dual Mac and Windows USB sticks.
-    Update your USB to the latest released version of ClaroRead or ScreenRuler without having to reinstall.
-    Change voices after the USB stick has been created.
-    Create USB version of ScreenRuler Suite.
+    New Features/Functionality Added 
+    ﹡Fixed bug WebBrowser
+    ﹡Gecko FX update to version 45
+    Features/Functionality Removed 
+    ﹡Remove Popup Windows
+    Features/Functionality Modified
+    ﹡N/A
+    Issues Resolved 
+    ﹡N/A
+    
 
                                           
