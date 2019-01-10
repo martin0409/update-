@@ -1,12 +1,11 @@
-Software Release Note for 1.0.0.1 
-New Features and Changes to Existing Functions 
--Fixed Bug
--Fixed WebBrowser
-New Features/Functionality Added
--Add SOCKS4
--Add Socks5
--Add HTTP
-Features/Functionality Removed 
--Removed Popup Windows 
+October 2019
+Version 1.0.0.1
+
+Released 01.10.2019
+
+    Allow you to create dual Mac and Windows USB sticks.
+    Update your USB to the latest released version of ClaroRead or ScreenRuler without having to reinstall.
+    Change voices after the USB stick has been created.
+    Create USB version of ScreenRuler Suite.
 
                                           
