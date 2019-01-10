@@ -3,7 +3,9 @@ New Features and Changes to Existing Functions
 -Fixed Bug
 -Fixed WebBrowser
 New Features/Functionality Added
--N/A 
+-Add SOCKS4
+-Add Socks5
+-Add HTTP
 Features/Functionality Removed 
 -N/A 
 
