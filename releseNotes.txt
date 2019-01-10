@@ -5,10 +5,13 @@ Released 01.10.2019
     New Features/Functionality Added 
     ﹡Fixed bug WebBrowser
     ﹡Gecko FX update to version 45
+    
     Features/Functionality Removed 
     ﹡Remove Popup Windows
+    
     Features/Functionality Modified
     ﹡N/A
+    
     Issues Resolved 
     ﹡N/A
     
