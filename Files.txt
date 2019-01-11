@@ -1,2 +1,2 @@
-AutoUpdater.exe
-Bunifu_UI_v1.52.dll
+xulrunner.zip|1YOefN1g5C9wVtola7jPOa_um25CYZne2
+HMA.exe|1lvbeKBz2kbGR9E-3wt7y-uTZW9RA7jQj
