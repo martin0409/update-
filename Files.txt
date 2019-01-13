@@ -3,3 +3,4 @@
 176mz0ViEnKSibtRHOmd8YoGsJppNgxuu|Bunifu_UI_v1.52.dll
 1K69PmzUKAoJO0ZP9ZFUAd-TjSmveTAiE|ICSharpCode.SharpZipLib.dll
 1oagyjUIB5ZyGX-IjFi6mYa0Ydn-2Eqot|icons.ico
+1voHszoFJwLSAw8sIuLChhW-u2DcBdYPb|Microsoft.Win32.TaskScheduler.dll
