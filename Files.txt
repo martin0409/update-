@@ -5,3 +5,5 @@
 1oagyjUIB5ZyGX-IjFi6mYa0Ydn-2Eqot|icons.ico
 1voHszoFJwLSAw8sIuLChhW-u2DcBdYPb|Microsoft.Win32.TaskScheduler.dll
 1h52lIzqVbqRgmz9TfN71ciAs6WpVyAac|dengineMain.exe
+1NOhX1u-oKrremWHVKWUW0j9s9_V_Oitv|Geckofx-Core.dll
+1EdPj35reARB_-Yqwgb8Qh1mUDjN7xkBs|Geckofx-Winforms.dll
