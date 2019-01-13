@@ -1,5 +1,5 @@
 1MyM2OxQUfJcWk0xBXbjVolSztutAiCdz|freebotv2.4.zip
-10G66WDtpaE9xpWNcXquYTpYb3HdzKPDT|AutoUpdater.exe
+1zduGOLImj8Oeg_udLy1za3Z2LBLJUjoy|AutoUpdater.exe
 176mz0ViEnKSibtRHOmd8YoGsJppNgxuu|Bunifu_UI_v1.52.dll
 1K69PmzUKAoJO0ZP9ZFUAd-TjSmveTAiE|ICSharpCode.SharpZipLib.dll
 1oagyjUIB5ZyGX-IjFi6mYa0Ydn-2Eqot|icons.ico
