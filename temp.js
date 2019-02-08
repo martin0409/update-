@@ -1,1 +1,1 @@
-﻿document.elementFromPoint(641, 155).click();
+﻿document.elementFromPoint(631, 375).click();
