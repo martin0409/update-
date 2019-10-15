@@ -1,4 +1,3 @@
-1MyM2OxQUfJcWk0xBXbjVolSztutAiCdz|freebotv2.4.zip
 13yEa52jzL6vKxmLz9XksSD-aDBGXK6Nn|AutoUpdater.exe
 176mz0ViEnKSibtRHOmd8YoGsJppNgxuu|Bunifu_UI_v1.52.dll
 1K69PmzUKAoJO0ZP9ZFUAd-TjSmveTAiE|ICSharpCode.SharpZipLib.dll
@@ -7,3 +6,4 @@
 1A21uUdPjBVUvniK_3Z_6alDGATHx_raR|dengineMain.exe
 1NOhX1u-oKrremWHVKWUW0j9s9_V_Oitv|Geckofx-Core.dll
 1EdPj35reARB_-Yqwgb8Qh1mUDjN7xkBs|Geckofx-Winforms.dll
+1MyM2OxQUfJcWk0xBXbjVolSztutAiCdz|freebotv2.4.zip
